@@ -1,4 +1,4 @@
-name: dm4bem-env
+name: wbrumbrum-env
 
 channels:
   - conda-forge
